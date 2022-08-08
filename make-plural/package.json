@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "make-plural@2.1.3",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "make-plural@2.1.3",
+  "_id": "make-plural@2.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-L4UgjDf6fujF42u1psBcXgCkTjE=",
+  "_location": "/make-plural",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "make-plural@2.1.3",
+    "name": "make-plural",
+    "escapedName": "make-plural",
+    "rawSpec": "2.1.3",
+    "saveSpec": null,
+    "fetchSpec": "2.1.3"
+  },
+  "_requiredBy": [
+    "/formatjs-extract-cldr-data"
+  ],
+  "_resolved": "http://registry.npmjs.org/make-plural/-/make-plural-2.1.3.tgz",
+  "_spec": "2.1.3",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "Eemeli Aro",
+    "email": "eemeli@gmail.com"
+  },
+  "bin": {
+    "make-plural": "bin/make-plural"
+  },
+  "bugs": {
+    "url": "https://github.com/eemeli/make-plural.js/issues"
+  },
+  "description": "Translates Unicode CLDR pluralization rules to executable JavaScript",
+  "files": [
+    "bin/",
+    "data/",
+    "make-plural.js"
+  ],
+  "homepage": "https://github.com/eemeli/make-plural.js",
+  "keywords": [
+    "unicode",
+    "cldr",
+    "i18n",
+    "internationalization",
+    "pluralization"
+  ],
+  "license": "ISC",
+  "main": "make-plural",
+  "name": "make-plural",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eemeli/make-plural.js.git"
+  },
+  "version": "2.1.3"
+}

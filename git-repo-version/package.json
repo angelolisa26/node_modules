@@ -1,0 +1,52 @@
+{
+  "_args": [
+    [
+      "git-repo-version@0.4.1",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "git-repo-version@0.4.1",
+  "_id": "git-repo-version@0.4.1",
+  "_inBundle": false,
+  "_integrity": "sha1-dfq5oKTshHB1Ww7qf9qm+dQUU78=",
+  "_location": "/git-repo-version",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "git-repo-version@0.4.1",
+    "name": "git-repo-version",
+    "escapedName": "git-repo-version",
+    "rawSpec": "0.4.1",
+    "saveSpec": null,
+    "fetchSpec": "0.4.1"
+  },
+  "_requiredBy": [
+    "/ember-cli-app-version"
+  ],
+  "_resolved": "https://registry.npmjs.org/git-repo-version/-/git-repo-version-0.4.1.tgz",
+  "_spec": "0.4.1",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "Miguel Camba"
+  },
+  "bugs": {
+    "url": "https://github.com/cibernox/git-repo-version/issues"
+  },
+  "dependencies": {
+    "git-repo-info": "~1.2.0"
+  },
+  "description": "Generates a version string based on the version specified in your package.json and the sha revision of the current commit/branch.",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "homepage": "https://github.com/cibernox/git-repo-version#readme",
+  "license": "MIT",
+  "name": "git-repo-version",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cibernox/git-repo-version.git"
+  },
+  "version": "0.4.1"
+}

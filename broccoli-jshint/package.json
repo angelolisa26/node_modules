@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "broccoli-jshint@1.2.0",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "broccoli-jshint@1.2.0",
+  "_id": "broccoli-jshint@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-jNVl0RoEv9MsuPhaD37eHlvnpqI=",
+  "_location": "/broccoli-jshint",
+  "_phantomChildren": {
+    "glob": "5.0.15",
+    "has-color": "0.1.7",
+    "minimist": "0.0.8"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "broccoli-jshint@1.2.0",
+    "name": "broccoli-jshint",
+    "escapedName": "broccoli-jshint",
+    "rawSpec": "1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "1.2.0"
+  },
+  "_requiredBy": [
+    "/ember-cli-jshint"
+  ],
+  "_resolved": "https://registry.npmjs.org/broccoli-jshint/-/broccoli-jshint-1.2.0.tgz",
+  "_spec": "1.2.0",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "Robert Jackson"
+  },
+  "bugs": {
+    "url": "https://github.com/rwjblue/broccoli-jshint/issues"
+  },
+  "dependencies": {
+    "broccoli-persistent-filter": "^1.2.0",
+    "chalk": "~0.4.0",
+    "findup-sync": "^0.3.0",
+    "jshint": "^2.7.0",
+    "json-stable-stringify": "^1.0.0",
+    "mkdirp": "~0.4.0"
+  },
+  "description": "Broccoli plugin to run JSHint",
+  "devDependencies": {
+    "broccoli": "~0.13.0",
+    "expect.js": "~0.3.1",
+    "mocha": "~1.18.2",
+    "rimraf": "~2.2.6"
+  },
+  "homepage": "https://github.com/rwjblue/broccoli-jshint#readme",
+  "keywords": [
+    "broccoli-plugin",
+    "jshint",
+    "javascript"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "broccoli-jshint",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwjblue/broccoli-jshint.git"
+  },
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "version": "1.2.0"
+}

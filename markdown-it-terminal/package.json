@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      "markdown-it-terminal@0.0.4",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "markdown-it-terminal@0.0.4",
+  "_id": "markdown-it-terminal@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-PyzmJLosqWSni4s4jWBe4zDenO0=",
+  "_location": "/markdown-it-terminal",
+  "_phantomChildren": {
+    "argparse": "1.0.10",
+    "entities": "1.1.2",
+    "lodash._arraycopy": "3.0.0",
+    "lodash._arrayeach": "3.0.0",
+    "lodash._createassigner": "3.1.1",
+    "lodash._getnative": "3.9.1",
+    "lodash.isarguments": "3.1.0",
+    "lodash.isarray": "3.0.4",
+    "lodash.isplainobject": "3.2.0",
+    "lodash.istypedarray": "3.0.6",
+    "lodash.keysin": "3.0.8",
+    "lodash.toplainobject": "3.0.0",
+    "mdurl": "1.0.1",
+    "uc.micro": "1.0.5"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "markdown-it-terminal@0.0.4",
+    "name": "markdown-it-terminal",
+    "escapedName": "markdown-it-terminal",
+    "rawSpec": "0.0.4",
+    "saveSpec": null,
+    "fetchSpec": "0.0.4"
+  },
+  "_requiredBy": [
+    "/ember-cli"
+  ],
+  "_resolved": "https://registry.npmjs.org/markdown-it-terminal/-/markdown-it-terminal-0.0.4.tgz",
+  "_spec": "0.0.4",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "Jake Bixby"
+  },
+  "bugs": {
+    "url": "https://github.com/trabus/markdown-it-terminal/issues"
+  },
+  "dependencies": {
+    "ansi-styles": "^2.1.0",
+    "cardinal": "^0.5.0",
+    "cli-table": "^0.3.1",
+    "lodash.merge": "^3.3.2",
+    "markdown-it": "^4.4.0"
+  },
+  "description": "Plugin for markdown-it to parse and output markdown formatted for the terminal",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.3.4"
+  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "homepage": "https://github.com/trabus/markdown-it-terminal",
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "terminal",
+    "cardinal",
+    "markdown-to-terminal"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "markdown-it-terminal",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trabus/markdown-it-terminal.git"
+  },
+  "scripts": {
+    "test": "mocha tests/test"
+  },
+  "version": "0.0.4"
+}

@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      "heimdalljs-fs-monitor@0.0.3",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "heimdalljs-fs-monitor@0.0.3",
+  "_id": "heimdalljs-fs-monitor@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-Rooa+l0xulj7GZ/NtbAAfcpp5j0=",
+  "_location": "/heimdalljs-fs-monitor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "heimdalljs-fs-monitor@0.0.3",
+    "name": "heimdalljs-fs-monitor",
+    "escapedName": "heimdalljs-fs-monitor",
+    "rawSpec": "0.0.3",
+    "saveSpec": null,
+    "fetchSpec": "0.0.3"
+  },
+  "_requiredBy": [
+    "/ember-cli"
+  ],
+  "_resolved": "https://registry.npmjs.org/heimdalljs-fs-monitor/-/heimdalljs-fs-monitor-0.0.3.tgz",
+  "_spec": "0.0.3",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/stefanpenner/heimdall-fs-monitor/issues"
+  },
+  "dependencies": {
+    "heimdalljs": "^0.2.0"
+  },
+  "description": "fs operation monitoring for heimdalljs",
+  "homepage": "https://github.com/stefanpenner/heimdall-fs-monitor#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "heimdalljs-fs-monitor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanpenner/heimdall-fs-monitor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}

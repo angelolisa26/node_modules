@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "git-tools@0.1.4",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "git-tools@0.1.4",
+  "_id": "git-tools@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha1-XkPllEO4pd7bOdumY9pJ55+UOXg=",
+  "_location": "/git-tools",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "git-tools@0.1.4",
+    "name": "git-tools",
+    "escapedName": "git-tools",
+    "rawSpec": "0.1.4",
+    "saveSpec": null,
+    "fetchSpec": "0.1.4"
+  },
+  "_requiredBy": [
+    "/ember-cli-release"
+  ],
+  "_resolved": "https://registry.npmjs.org/git-tools/-/git-tools-0.1.4.tgz",
+  "_spec": "0.1.4",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "Scott González",
+    "email": "scott.gonzalez@gmail.com",
+    "url": "http://scottgonzalez.com"
+  },
+  "bugs": {
+    "url": "https://github.com/scottgonzalez/node-git-tools/issues"
+  },
+  "dependencies": {
+    "spawnback": "~1.0.0"
+  },
+  "description": "Tools for parsing data out of git repositories.",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "rimraf": "~2.1.4"
+  },
+  "homepage": "https://github.com/scottgonzalez/node-git-tools",
+  "keywords": [
+    "git"
+  ],
+  "main": "git-tools.js",
+  "name": "git-tools",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottgonzalez/node-git-tools.git"
+  },
+  "version": "0.1.4"
+}

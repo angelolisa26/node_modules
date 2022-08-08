@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "cldr-core@28.0.0",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "cldr-core@28.0.0",
+  "_id": "cldr-core@28.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-RttiCCktp/6fA7e3n4ypDOuExq0=",
+  "_location": "/cldr-core",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cldr-core@28.0.0",
+    "name": "cldr-core",
+    "escapedName": "cldr-core",
+    "rawSpec": "28.0.0",
+    "saveSpec": null,
+    "fetchSpec": "28.0.0"
+  },
+  "_requiredBy": [
+    "/formatjs-extract-cldr-data"
+  ],
+  "_resolved": "http://registry.npmjs.org/cldr-core/-/cldr-core-28.0.0.tgz",
+  "_spec": "28.0.0",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "The Unicode Consortium"
+  },
+  "bugs": {
+    "url": "http://unicode.org/cldr/trac/newticket"
+  },
+  "description": "This repository provides the a portion of the JSON distribution of CLDR locale data for internationalization.",
+  "homepage": "http://cldr.unicode.org",
+  "licenses": [
+    {
+      "type": "Unicode-TOU",
+      "url": "http://www.unicode.org/copyright.html"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "John Emmons",
+      "email": "emmo@us.ibm.com",
+      "url": "https://github.com/JCEmmons"
+    }
+  ],
+  "name": "cldr-core",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unicode-cldr/cldr-core.git"
+  },
+  "version": "28.0.0"
+}

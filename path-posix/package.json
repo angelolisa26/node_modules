@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "path-posix@1.0.0",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "path-posix@1.0.0",
+  "_id": "path-posix@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-BrJhE/Vr6rBCVFojv6iAA8ysJg8=",
+  "_location": "/path-posix",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "path-posix@1.0.0",
+    "name": "path-posix",
+    "escapedName": "path-posix",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/broccoli-funnel",
+    "/broccoli-stew/broccoli-funnel",
+    "/ember-assign-polyfill/broccoli-funnel",
+    "/ember-cli-app-version/broccoli-funnel",
+    "/ember-highcharts/broccoli-funnel",
+    "/ember-intl-format-cache/broccoli-funnel",
+    "/fs-tree-diff"
+  ],
+  "_resolved": "https://registry.npmjs.org/path-posix/-/path-posix-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "jden",
+    "email": "jason@denizac.org"
+  },
+  "bugs": {
+    "url": "https://github.com/jden/node-path-posix/issues"
+  },
+  "description": "posix-specific core path module",
+  "homepage": "https://github.com/jden/node-path-posix#readme",
+  "keywords": [
+    "path"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "path-posix",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jden/node-path-posix.git"
+  },
+  "scripts": {
+    "test": "node test/test-path"
+  },
+  "version": "1.0.0"
+}

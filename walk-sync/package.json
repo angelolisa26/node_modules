@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      "walk-sync@0.3.3",
+      "/root/etchash-pplns-pool/www"
+    ]
+  ],
+  "_development": true,
+  "_from": "walk-sync@0.3.3",
+  "_id": "walk-sync@0.3.3",
+  "_inBundle": false,
+  "_integrity": "sha512-jQgTHmCazUngGqvHZFlr30u2VLKEKErBMLFe+fBl5mn4rh9aI/QVRog8PT1hv2vaOu4EBwigfmpRTyZrbnpRVA==",
+  "_location": "/walk-sync",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "walk-sync@0.3.3",
+    "name": "walk-sync",
+    "escapedName": "walk-sync",
+    "rawSpec": "0.3.3",
+    "saveSpec": null,
+    "fetchSpec": "0.3.3"
+  },
+  "_requiredBy": [
+    "/broccoli-cldr-data/broccoli-caching-writer",
+    "/broccoli-config-loader/broccoli-caching-writer",
+    "/broccoli-filter",
+    "/broccoli-funnel",
+    "/broccoli-persistent-filter",
+    "/broccoli-stew",
+    "/broccoli-stew/broccoli-funnel",
+    "/ember-assign-polyfill/broccoli-funnel",
+    "/ember-cli",
+    "/ember-cli-app-version/broccoli-funnel",
+    "/ember-highcharts/broccoli-funnel",
+    "/ember-intl-format-cache/broccoli-funnel"
+  ],
+  "_resolved": "https://registry.npmjs.org/walk-sync/-/walk-sync-0.3.3.tgz",
+  "_spec": "0.3.3",
+  "_where": "/root/etchash-pplns-pool/www",
+  "author": {
+    "name": "Jo Liss",
+    "email": "joliss42@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/joliss/node-walk-sync/issues"
+  },
+  "dependencies": {
+    "ensure-posix-path": "^1.0.0",
+    "matcher-collection": "^1.0.0"
+  },
+  "description": "Get an array of recursive directory contents",
+  "devDependencies": {
+    "jshint-tap-simple": "^1.0.2",
+    "rimraf": "^2.4.3",
+    "tap": "^1.0.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "homepage": "https://github.com/joliss/node-walk-sync#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "walk-sync",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joliss/node-walk-sync.git"
+  },
+  "scripts": {
+    "test": "tap --timeout 2 ./test/*.js",
+    "test:debug": "tap --debug-brk --timeout 9999 ./test/*.js"
+  },
+  "types": "index.d.ts",
+  "version": "0.3.3"
+}
